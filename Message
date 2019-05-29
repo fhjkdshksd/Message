@@ -1,0 +1,5 @@
+######## Show message on action ##########
+
+MessageBox.Show("Customer Name is already exist!", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    AddNewCustomerTextBox.Clear();
+                    AddNewCustomerTextBox.Focus();
